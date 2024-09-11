@@ -1,0 +1,33 @@
+collections:
+  authors:
+    output: true
+  books:
+    output: true
+highlighter: rouge
+markdown: kramdown
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
+
+kramdown:
+  input: GFM
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      layout: "book "
