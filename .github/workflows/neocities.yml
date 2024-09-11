@@ -34,7 +34,7 @@ jobs:
       run: bundle exec jekyll build
       env:
         JEKYLL_ENV: production
-
+      uses: actions/upload-pages-artifact@v3
     
     # When the dist_dir is ready, deploy it to neocities
     - name: Deploy to neocities
