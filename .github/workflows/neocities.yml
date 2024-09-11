@@ -26,16 +26,14 @@ jobs:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
-    - name: Setup Pages
-      id: pages
-      uses: actions/configure-pages@v5
     - name: Build with Jekyll
         # Outputs to the './_site' directory by default
       run: bundle exec jekyll build
       env:
         JEKYLL_ENV: production
-      uses: actions/upload-pages-artifact@v3
-    
+    - name: Install deps and build
+      run: |
+        bundle exec jekyll build --incremental   
     # When the dist_dir is ready, deploy it to neocities
     - name: Deploy to neocities
       uses: bcomnes/deploy-to-neocities@v2.0.2
