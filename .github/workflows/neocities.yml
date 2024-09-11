@@ -43,7 +43,7 @@ jobs:
         # Required, to access Neocities API.
         # https://neocities.org/settings
         # Set in Settings -> Secrets
-        key: ${{ secrets.NEOCITIES_API_KEY }}
+        key: ${{ secrets.NEOCITIES_API_TOKEN }}
         # Required, local directory to deploy to Neocities
         dir: _site
         # Optional, if true, delete remote files not present locally
