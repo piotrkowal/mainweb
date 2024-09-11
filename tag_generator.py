@@ -25,6 +25,7 @@ filenames = filenames + books_filenames
 
 total_tags = []
 for filename in filenames:
+    # TODO: Add support for polish letters
     f = open(filename, 'r')
     crawl = False
     for line in f:
