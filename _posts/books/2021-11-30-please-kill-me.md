@@ -6,7 +6,9 @@ tags: książki
 author: Legs McNeil
 ---
 
-Playlista z piosenkami wymienionymi w książce: https://open.spotify.com/playlist/5aAJ9Nv9i1FjVT6J0a0YW9
+Playlista z piosenkami wymienionymi w książce: 
+
+{% include spotify_embeded.html content="https://open.spotify.com/embed/playlist/5aAJ9Nv9i1FjVT6J0a0YW9?utm_source=generator&theme=0" %}
 
 
 
