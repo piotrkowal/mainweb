@@ -443,6 +443,16 @@ feel free to play around with the order!
   .spoiler-details[open] summary {
     border-bottom: 1px solid #bbb;
   }
+
+  .spoiler-alert {
+  animation: blinker 1.5s linear infinite;
+}
+@keyframes blinker {
+  50% {
+    color: red;
+      opacity: 0;
+  }
+}
 </style>
 
 

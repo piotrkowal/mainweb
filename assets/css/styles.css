@@ -44,15 +44,7 @@ a {
   max-width:100%;
 }
 
-.spoiler-alert {
-  animation: blinker 1.5s linear infinite;
-}
-@keyframes blinker {
-  50% {
-    color: red;
-      opacity: 0;
-  }
-}
+
 .spoiler-text {
   background: black;
   color: transparent;
