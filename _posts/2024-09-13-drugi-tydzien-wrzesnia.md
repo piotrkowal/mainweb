@@ -12,12 +12,15 @@ Mój fav clicker ma nowy time event i tym razem związany jest ze światem skał
 
 Mam mały detox od filmów, więc od projekcji Shreka 2 na VHS, dopiero 7 Września obejrzałem COKOLWIEK.
 
-<img class="img-post" style="padding: 12%;" src="/assets/images/tumblr_wij.webp"/>
+<img class="img-post" style="padding: 2%;" src="/assets/images/tumblr_wij.webp"/>
 
+Jakoś tak wyszło, że na porannym posiedzeniu trafiłem na post Koryntczyk, i ten magiczny uśmiech wiedźmy chodził mi po głowie przez cały dzień. Na tyle mnie to męczyło, że obejrzałem ten film w pierwszym dogodnym momencie, czyli pod wieczór. Na szczęście z kinem radzieckim nie ma problemu, jeśli chodzi o dostępność :D 
+
+Film jest odpowiednio dziwny, a aktorzy wydają się żyć w tym imperium rosyjskim te 300 lat temu. Tempo akcji jest zazwyczaj dość spokojne, żeby nie powiedzieć że dzisiaj powooolne. Zupełnie mi to nie wadziło, a raczej podkręciło atmosferę absolutnej fantazji. A samo zakończenie było już tym co lubię bardzo, czyli było całkiem nieoczywiste, nieprostolinijne. W dodatku jak przeczyta się interpretację Koryntczyk to tak idealnie pasuje, jak dłoń w rękawiczce.
  <span class="spoiler-text" tabindex="0">clickable, tabbable, and hoverable spoiler, który będzie się pojawiał od czasu do czasu mam nadzieję</span>
 
 <details class="spoiler-details">
-  <summary>Magdalena Koryntczyk - Interpretacja filmu "Wij" (1967)</summary>
+  <summary>Magdalena Koryntczyk - Interpretacja filmu "Wij" (1967) <div class="spoiler-alert">UWAGA: SPOILERY!!!</div></summary>
  
 kładę się, wiec zostawiam tutaj post o Wiju, będziecie mieli na rano do kawusi.<br /><br />
 Wij z 1967 roku to ekranizacja opowiadania Gogola, fabuła prosta jak cep: <br /><br />

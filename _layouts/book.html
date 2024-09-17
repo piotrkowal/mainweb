@@ -5,7 +5,7 @@ layout: default
 {{ page.date_read}}
 <span>[
     {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
+      {% capture tag_name %}{{ tag | url_encode }}{% endcapture %}
       <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
     {% endfor %}
   ]</span>
