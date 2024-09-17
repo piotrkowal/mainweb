@@ -354,6 +354,91 @@ feel free to play around with the order!
     text-decoration: underline wavy;
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Oswald&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+  
+  a.current {
+    text-decoration: underline;
+    text-decoration-thickness: 0.09em; 
+  }
+  a {
+    text-decoration: none;
+    color: #000;
+    font-size: 2em;
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  .container {
+    display: grid;
+    grid-template-columns: 10% auto;
+  }
+  
+  .navigation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+    justify-content: flex-start;
+    margin: 10px;
+    margin-block-start: 1.6em;
+  }
+  
+  .navigation nav > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+  
+  .book {
+      font-family: 'Dosis', sans-serif;
+      font-size: 16px;
+  }
+  
+  .img-post {
+    max-width:100%;
+  }
+  
+  .spoiler-details {
+    max-width:100%;
+  }
+  
+  .spoiler-text {
+    background: black;
+    color: transparent;
+    cursor: help;
+    user-select: none;
+  
+    transition: background 0.3s ease 0.2s, color 0.2s ease 0.25s;
+  }
+  
+  .spoiler-text:hover,
+  .spoiler-text:focus {
+  
+    color: inherit;
+  }
+  
+  .spoiler-details {
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    min-width: 300px;
+     transition: height 1s ease;
+  }
+  
+  .spoiler-details summary {
+    cursor: pointer;
+    font-weight: bold;
+    list-style: none;
+    padding: 0.25rem;
+  }
+  
+  .spoiler-details[open] summary {
+    border-bottom: 1px solid #bbb;
+  }
 </style>
 
 
