@@ -2,7 +2,7 @@
 layout: post
 author: Pjoter
 title: Drugi tydzień września
-tags: [strumień ciekawości]
+tags: [strumień ciekawości, Wij, Gogol, Film radziecki, powódź]
 ---
 
 Mój fav clicker ma nowy time event i tym razem związany jest ze światem skał <3
