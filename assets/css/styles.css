@@ -40,3 +40,45 @@ a {
     font-size: 16px;
 }
 
+.img-post {
+  max-width:100%;
+}
+
+.spoiler-details {
+  max-width:100%;
+}
+
+.spoiler-text {
+  background: black;
+  color: transparent;
+  cursor: help;
+  user-select: none;
+
+  transition: background 0.3s ease 0.2s, color 0.2s ease 0.25s;
+}
+
+.spoiler-text:hover,
+.spoiler-text:focus {
+
+  color: inherit;
+}
+
+.spoiler-details {
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  min-width: 300px;
+   transition: height 1s ease;
+}
+
+.spoiler-details summary {
+  cursor: pointer;
+  font-weight: bold;
+  list-style: none;
+  padding: 0.25rem;
+}
+
+.spoiler-details[open] summary {
+  border-bottom: 1px solid #bbb;
+}

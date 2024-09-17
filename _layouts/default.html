@@ -135,6 +135,16 @@ body {
   background-size: 65px;
   color: #fceaff;
   background-image: var(--body-bg-image);
+  animation:y 60s linear infinite;
+}
+body::after {
+  animation:inherit;
+  animation-direction: reverse;
+}
+@keyframes y {
+  to {
+    background-position:-10% 0;
+  }
 }
 
 * {
