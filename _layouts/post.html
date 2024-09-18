@@ -5,7 +5,7 @@ layout: default
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 <span>[
     {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag  | url_encode }}{% endcapture %}
+      {% capture tag_name %}{{ tag  | url_encode | slugify }}{% endcapture %}
       <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
     {% endfor %}
   ]</span>
