@@ -1,0 +1,228 @@
+---
+layout: post
+title: /v/'s Reccommended PS3 Games
+tags: [lista]
+---
+
+
+- [ ] 3D Dot Game Heroes
+- [ ] 50 Cent: Blood On The Sand 
+- [ ] Afrika
+- [ ] Alpha Protocol 
+- [ ] Anarchy Reigns 
+- [ ] Arcana Heart 3: LOVE MAX!!!!! 
+- [ ] Armored Core 4 
+- [ ] Armored Core: For Answer 
+- [ ] Armored Core V 
+- [ ] Armored Core Verdict Day 
+- [ ] Assassin's Creed Ezio Trilogy 
+- [ ] Assassin's Creed IV: Black Flag 
+- [ ] Asura's Wrath 
+- [ ] Atelier Rorona: The Alchemist of Arland 
+- [ ] Atelier Totori: The Adventurer of Arland 
+- [ ] Atelier Meruru: The Apprentice of Arland 
+- [ ] Batman: Arkham Asylum Game of the Year Edition 
+- [ ] Batman: Arkham City 
+- [ ] BattleFantasia
+- [ ] Bayonetta
+- [ ] Best of PlayStation Network Vol. 1
+- [ ] Binary Domain 
+- [ ] BioShock Ultimate Rapture Edition 
+- [ ] BioShock Infinite
+- [ ] Birds of Steel 
+- [ ] BlazBlue: Continuum Shift Extend 
+- [ ] Blur
+- [ ] Borderlands 2: Game Of The Year Edition
+- [ ] Brothers in Arms: Hell's Highway 
+- [ ] Brütal Legend 
+- [ ] Bulletstorm
+- [ ] Burnout Paradise 
+- [ ] Call of Juarez: Bound in Blood
+- [ ] Castlevania: Lords of Shadow Collection 
+- [ ] Catherine
+- [ ] Child of Eden 
+- [ ] The Chronicles of Riddick: Assault on Dark Athena 
+- [ ] Condemned 2: Bloodshot 
+- [ ] Dark Souls
+- [ ] Dark Souls II
+- [ ] Darksiders
+- [ ] The Darkness
+- [ ] The Darkness II
+- [ ] Dead or Alive 5 Ultimate 
+- [ ] Dead Rising 2 
+- [ ] Dead Space 
+- [ ] Dead Space 2 
+- [ ] Deadly Premonition: The Director's Cut
+- [ ] Demon's Souls 
+- [ ] Deus Ex: Human Revolution - Director's Cut 
+- [ ] Devil May Cry 4 
+- [ ] Devil May Cry HD Collection 
+- [ ] DiRT 2 
+- [ ] DiRT 3: Complete Edition 
+- [ ] Disgaea 3: Absence of Justice 
+- [ ] Disgaea 4: A Promise Unforgotten 
+- [ ] Dishonored
+- [ ] Dragon Age: Origins Ultimate Edition 
+- [ ] Dragon Ball: Raging Blast 
+- [ ] Dragon Ball: Raging Blast 2 
+- [ ] Dragon Ball XenoVerse 
+- [ ] Dragon Ball Z: Burst Limit 
+- [ ] Dragon's Crown 
+- [ ] Dragon's Dogma: Dark Arisen 
+- [ ] Driver: San Francisco 
+- [ ] DuckTales: Remastered 
+- [ ] Dynasty Warriors 7 / Xtreme Legends 
+- [x] Dynasty Warriors Gundam 
+- [ ] Dynasty Warriors Gundam 2 
+- [ ] Dynasty Warriors: Gundams 3 
+- [ ] El Shaddai: Ascension of the Metatron 
+- [ ] Eternal Sonata 
+- [ ] F.E.A.R. 
+- [ ] Fallout 3: Game Of The Year Edition 
+- [ ] Fallout: New Vegas: Ultimate Edition 
+- [ ] Far Cry 3
+- [ ] Final Fantasy X/X2 HD Remaster
+- [ ] Fist of the North Star: Ken's Rage 
+- [ ] Fist of the North Star: Ken's Rage 2 
+- [ ] Folklore 
+- [ ] Formula One Championship Edition
+- [ ] Ghostbusters: The Video Game 
+- [ ] God of War Saga
+- [ ] God of War: Ascension
+- [ ] Gran Turismo 5
+- [ ] Gran Turismo 6 
+- [ ] Grand Theft Auto IV: The Complete Edition 
+- [ ] GRID
+- [ ] Hatsune Miku: Project Diva F
+- [ ] Hitman HD Trilogy 
+- [ ] House of the Dead: Overkill - Extended Cut
+- [ ] Hyperdimension Neptunia Mk2
+- [ ] The Ico & Shadow of the Colossus Collection
+- [ ] IL-2 Sturmovik: Birds of Prey 
+- [ ] inFAMOUS Collection
+- [ ] Injustice: Gods Among Us - Ultimate Edition 
+- [ ] Jak and Daxter Collection 
+- [ ] JoJo's Bizzare Adventure: All-Star Battle 
+- [ ] Journey Collector's Edition 
+- [ ] Just Cause 2 
+- [ ] Katamari Forever 
+- [ ] Killer is Dead 
+- [ ] Killzone Trilogy 
+- [ ] The King of Fighters XIII 
+- [ ] Kingdom Hearts HD 1.5 ReMIX
+- [ ] Kingdom Hearts HD 2.5 ReMIX
+- [ ] Kingdoms of Amalur: Reckoning 
+- [ ] LittleBigPlanet 2 
+- [ ] Lollipop Chainsaw 
+- [ ] Lost Planet: Extreme Condition 
+- [ ] Lost Planet 2 
+- [ ] Majin and the Forsaken Kingdom 
+- [ ] Mass Effect Trilogy 
+- [ ] Max Payne 3 
+- [ ] Metal Gear Rising: Revengeance 
+- [ ] Metal Gear Solid: The Legacy Collection 
+- [ ] Mirror's Edge 
+- [ ] Modnation Racers 
+- [ ] Mortal Kombat Komplete Edition 
+- [ ] MotorStorm
+- [ ] MotorStorm: Pacific Rift 
+- [ ] MotorStorm: Apocalypse 
+- [ ] Naruto: Ultimate Ninja Storm Generations 
+- [ ] NBA Jam 
+- [ ] Ni No Kuni: Wrath of the White Witch 
+- [ ] NIER [JP: NIER Replicant/Gestalt] 
+- [ ] Ninja Gaiden Sigma 
+- [ ] Ninja Gaiden Sigma 2 
+- [ ] No More Heroes: Heroes' Paradise 
+- [ ] Odin Sphere Leifthrasir 
+- [ ] One Piece: Pirate Warriors 
+- [ ] One Piece: Pirate Warriors 2 
+- [ ] Persona 4 Arena Ultimax 
+- [ ] Portal 2 
+- [ ] Prototype
+- [ ] Puppeteer 
+- [ ] Pure
+- [ ] R.U.S.E. 
+- [ ] Ratchet and Clank Collection
+- [ ] Ratchet and Clank Future: Tools of Destruction
+- [ ] Ratchet and Clank Future: Quest for Booty
+- [ ] Ratchet and Clank Future: A Crack in Time
+- [ ] Ratchet & Clank: Into the Nexus
+- [ ] Ratchet and Clank: All 4 One
+- [ ] Rayman Origins 
+- [ ] Rayman Legends 
+- [ ] Red Dead Redemption: Game of the Year Edition
+- [ ] Red Faction: Guerrilla 
+- [ ] Resident Evil 5: Gold Edition 
+- [ ] Resident Evil: Revelations 
+- [ ] Resistance Collection
+- [ ] Resonance of Fate 
+- [ ] Ridge Racer 7 
+- [ ] Rune Factory: Tides of Destiny 
+- [ ] Saint Seiya: Sanctuary Battle 
+- [ ] Saints Row 2 
+- [ ] Sengoku Basara: Samurai Heroes 
+- [ ] Shadows of the Damned 
+- [ ] Sid Meier's Civilization Revolution 
+- [ ] Siren: Blood Curse 
+- [ ] Skate 3 
+- [ ] Sleeping Dogs 
+- [ ] The Sly Collection 
+- [ ] Sly Cooper: Thieves in Time 
+- [ ] Sonic and Sega All-Stars Racing Transformed 
+- [ ] Sonic Generations 
+- [ ] Sonic's Ultimate Genesis Collection 
+- [ ] Sonic Unleashed 
+- [ ] Soul Calibur IV 
+- [ ] Soul Calibur V 
+- [ ] Spider-Man: Shattered Dimensions 
+- [ ] Spider-Man: Web of Shadows 
+- [ ] Split/Second 
+- [ ] Stranglehold 
+- [ ] Tales of Graces F 
+- [ ] Tales of Symphonia Chronicles 
+- [ ] Tales of Xillia 
+- [ ] Tekken 6 
+- [ ] Tekken Tag Tournament 2 
+- [ ] Time Crisis: Razing Storm 
+- [ ] Tom Clancy's Ghost Recon Advanced Warfighter 2 
+- [ ] Tom Clancy's Rainbow Six: Vegas 
+- [ ] Tom Clancy's Rainbow Six: Vegas 2 
+- [ ] Tom Clancy's Splinter Cell Trilogy 
+- [ ] Tomb Raider Trilogy 
+- [ ] Tomb Raider 
+- [ ] Transformers: War for Cybertron 
+- [ ] Transformers: Fall of Cybertron 
+- [ ] Twisted Metal 
+- [ ] Ultimate Marvel Vs. Capcom 3 
+- [ ] Ultra Street Fighter IV 
+- [ ] Uncharted: Drake's Fortune
+- [x] Uncharted 2: Among Thieves Game of the Year Edition
+- [ ] Uncharted 3: Drake's Deception Game of the Year Edition
+- [ ] Valkyria Chronicles 
+- [ ] Vanquish 
+- [ ] The Walking Dead: Game of the Year Edition 
+- [ ] Way of the Samurai 3 
+- [ ] Way of the Samurai 4 
+- [ ] White Knight Chronicles II
+- [ ] XCOM: Enemy Unknown 
+- [ ] X-Men Origins: Wolverine 
+- [ ] Yakuza 3 
+- [ ] Yakuza 4 
+- [ ] Yakuza: Dead Souls 
+- [ ] Zone of the Enders HD Collection 
+- [ ] Aquanaut's Holiday: Hidden Memories
+- [ ] Boku no Natsuyasumi 3: Hokkoku Hen: Chiisana Boku no Dai Sougen​
+- [ ] Gundam Extreme Vs. 
+- [ ] Idolm@ster 2 
+- [ ] Initial D Extreme Stage 
+- [ ] Megazone 23: Aoi Garland
+- [ ] Musou Orochi Z 
+- [ ] Wangan Midnight 
+- [ ] Yakuza Kenzan 
+
+<a href="https://www.goodreads.com/book/show/205099207-kaczki-dwa-lata-na-piaskach" style="float: left; padding-right: 20px"><img border="0" alt="Kaczki. Dwa lata na piaskach" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704830339l/205099207._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/205099207-kaczki-dwa-lata-na-piaskach">Kaczki. Dwa lata na piaskach</a> by <a href="https://www.goodreads.com/author/show/2921970.Kate_Beaton">Kate Beaton</a><br/>
+<br /><br />
+Cudeńko
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/57103757-piotr">View all my reviews</a>
